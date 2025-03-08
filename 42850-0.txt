@@ -1,38 +1,4 @@
-The Project Gutenberg EBook of The Pied Piper of Hamelin and Other Poems, by 
-Robert Browning
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-
-Title: The Pied Piper of Hamelin and Other Poems
-       Every Boy's Library
-
-Author: Robert Browning
-
-Release Date: May 30, 2013 [EBook #42850]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE PIED PIPER OF HAMELIN ***
-
-
-
-
-Produced by Juliet Sutherland, Paul Clark and the Online
-Distributed Proofreading Team at http://www.pgdp.net
-
-
-
-
-
-
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK 42850 ***
 
 [Illustration]
 
@@ -173,7 +139,7 @@ CONTENTS.
 
     THE PIED PIPER OF HAMELIN                                         11
 
-    HERVÉ RIEL                                                        24
+    HERVÃ‰ RIEL                                                        24
 
     CAVALIER TUNES                                                    31
 
@@ -185,7 +151,7 @@ CONTENTS.
 
     CLIVE                                                             41
 
-    MULÉYKEH                                                          59
+    MULÃ‰YKEH                                                          59
 
     TRAY                                                              68
 
@@ -379,7 +345,7 @@ A CHILD'S STORY.
   And step for step they followed dancing,
   Until they came to the river Weser,
   Wherein all plunged and perished!
-  --Save one who, stout as Julius Cæsar,
+  --Save one who, stout as Julius CÃ¦sar,
   Swam across and lived to carry
   (As he, the manuscript he cherished)
   To Rat-land home his commentary:
@@ -590,13 +556,13 @@ A CHILD'S STORY.
 
   So, Willy, let me and you be wipers
   Of scores out with all men--especially pipers!
-  And, whether they pipe us free fróm rats or fróm mice,
+  And, whether they pipe us free frÃ³m rats or frÃ³m mice,
   If we've promised them aught, let us keep our promise!
 
 
 
 
-HERVÉ RIEL.
+HERVÃ‰ RIEL.
 
 
   I.
@@ -662,16 +628,16 @@ HERVÉ RIEL.
     No such man of mark, and meet
     With his betters to compete!
     But a simple Breton sailor pressed by Tourville for the fleet,
-  A poor coasting-pilot he, Hervé Riel the Croisickese.
+  A poor coasting-pilot he, HervÃ© Riel the Croisickese.
 
 
   VI.
 
-  And "What mockery or malice have we here?" cries Hervé Riel:
+  And "What mockery or malice have we here?" cries HervÃ© Riel:
     "Are you mad, you Malouins? Are you cowards, fools, or rogues?
   Talk to me of rocks and shoals, me who took the soundings, tell
   On my fingers every bank, every shallow, every swell
-    'Twixt the offing here and Grève where the river disembogues?
+    'Twixt the offing here and GrÃ¨ve where the river disembogues?
   Are you bought by English gold? Is it love the lying's for?
         Morn and eve, night and day,
         Have I piloted your bay,
@@ -683,11 +649,11 @@ HERVÉ RIEL.
     Get this _Formidable_ clear,
   Make the others follow mine,
   And I lead them, most and least, by a passage I know well,
-    Right to Solidor past Grève,
+    Right to Solidor past GrÃ¨ve,
       And there lay them safe and sound;
       And if one ship misbehave,
       --Keel so much as grate the ground,
-  Why, I've nothing but my life,--here's my head!" cries Hervé Riel.
+  Why, I've nothing but my life,--here's my head!" cries HervÃ© Riel.
 
 
   VII.
@@ -708,7 +674,7 @@ HERVÉ RIEL.
     Not a spar that comes to grief!
   The peril, see, is past,
   All are harboured to the last,
-  And just as Hervé Riel hollas "Anchor!"--sure as fate,
+  And just as HervÃ© Riel hollas "Anchor!"--sure as fate,
   Up the English come--too late!
 
 
@@ -716,7 +682,7 @@ HERVÉ RIEL.
 
   So, the storm subsides to calm:
     They see the green trees wave
-    On the heights o'erlooking Grève.
+    On the heights o'erlooking GrÃ¨ve.
   Hearts that bled are stanched with balm.
   "Just our rapture to enhance,
     Let the English rake the bay,
@@ -729,7 +695,7 @@ HERVÉ RIEL.
     Let France, let France's King
     Thank the man that did the thing!"
   What a shout, and all one word,
-    "Hervé Riel!"
+    "HervÃ© Riel!"
   As he stepped in front once more,
     Not a symptom of surprise
     In the frank blue Breton eyes,
@@ -778,10 +744,10 @@ HERVÉ RIEL.
   Go to Paris: rank on rank
     Search the heroes flung pell-mell
   On the Louvre, face and flank!
-    You shall look long enough ere you come to Hervé Riel.
+    You shall look long enough ere you come to HervÃ© Riel.
   So, for better and for worse,
-  Hervé Riel, accept my verse!
-  In my verse, Hervé Riel, do thou once more
+  HervÃ© Riel, accept my verse!
+  In my verse, HervÃ© Riel, do thou once more
   Save the squadron, honour France, love thy wife the Belle Aurore!
 
 [Illustration: "'LEAVE TO GO AND SEE MY WIFE, WHOM I CALL THE BELLE
@@ -907,7 +873,7 @@ III. BOOT AND SADDLE.
   'Twas moonset at starting; but while we drew near
   Lokeren, the cocks crew and twilight dawned clear:
   At Boom, a great yellow star came out to see;
-  At Düffeld, 'twas morning as plain as could be;
+  At DÃ¼ffeld, 'twas morning as plain as could be;
   And from Mecheln church-steeple we heard the half chime,
   So Joris broke silence with, "Yet there is time!"
 
@@ -1160,7 +1126,7 @@ CLIVE.
       years hence,
   When my boy--suppose I have one--asks me on what evidence
   I maintain my friend of Plassy proved a warrior every whit
-  Worth your Alexanders, Cæsars, Marlboroughs, and--what said Pitt?--
+  Worth your Alexanders, CÃ¦sars, Marlboroughs, and--what said Pitt?--
   Frederick the Fierce himself! Clive told me once"--I want to say--
   "Which feat out of all those famous doings bore the bell away
   --In his own calm estimation, mark you, not the mob's rough guess--
@@ -1395,49 +1361,49 @@ CLIVE.
 
 
 
-MULÉYKEH.
+MULÃ‰YKEH.
 
 
-  If a stranger passed the tent of Hóseyn, he cried "A churl's!"
+  If a stranger passed the tent of HÃ³seyn, he cried "A churl's!"
   Or haply "God help the man who has neither salt nor bread!"
   --"Nay," would a friend exclaim, "he needs nor pity nor scorn
   More than who spends small thought on the shore-sand, picking pearls,
   --Holds but in light esteem the seed-sort, bears instead
   On his breast a moon-like prize, some orb which of night makes morn.
 
-  "What if no flocks and herds enrich the son of Sinán?
+  "What if no flocks and herds enrich the son of SinÃ¡n?
   They went when his tribe was mulct, ten thousand camels the due,
   Blood-value paid perforce for a murder done of old.
   'God gave them, let them go! But never since time began,
-  Muléykeh, peerless mare, owned master the match of you,
+  MulÃ©ykeh, peerless mare, owned master the match of you,
   And you are my prize, my Pearl: I laugh at men's land and gold!'
 
-  "So in the pride of his soul laughs Hóseyn--and right, I say.
+  "So in the pride of his soul laughs HÃ³seyn--and right, I say.
   Do the ten steeds run a race of glory? Outstripping all,
-  Ever Muléykeh stands first steed at the victor's staff.
+  Ever MulÃ©ykeh stands first steed at the victor's staff.
   Who started, the owner's hope, gets shamed and named, that day.
   'Silence,' or, last but one, is 'The Cuffed,' as we used to call
-  Whom the paddock's lord thrusts forth. Right, Hóseyn, I say,
+  Whom the paddock's lord thrusts forth. Right, HÃ³seyn, I say,
       to laugh!"
 
-  "Boasts he Muléykeh the Pearl?" the stranger replies: "Be sure
+  "Boasts he MulÃ©ykeh the Pearl?" the stranger replies: "Be sure
   On him I waste nor scorn nor pity, but lavish both
-  On Duhl the son of Sheybán, who withers away in heart
-  For envy of Hóseyn's luck. Such sickness admits no cure.
+  On Duhl the son of SheybÃ¡n, who withers away in heart
+  For envy of HÃ³seyn's luck. Such sickness admits no cure.
   A certain poet has sung, and sealed the same with an oath,
   'For the vulgar--flocks and herds! The Pearl is a prize apart.'"
 
-  Lo, Duhl the son of Sheybán comes riding to Hóseyn's tent,
+  Lo, Duhl the son of SheybÃ¡n comes riding to HÃ³seyn's tent,
   And he casts his saddle down, and enters and "Peace!" bids he.
   "You are poor, I know the cause: my plenty shall mend the wrong.
   'Tis said of your Pearl--the price of a hundred camels spent
   In her purchase were scarce ill paid: such prudence is far from me
   Who proffer a thousand. Speak! Long parley may last too long."
 
-  Said Hóseyn, "You feed young beasts a many, of famous breed,
-  Slit-eared, unblemished, fat, true offspring of Múzennem:
+  Said HÃ³seyn, "You feed young beasts a many, of famous breed,
+  Slit-eared, unblemished, fat, true offspring of MÃºzennem:
   There stumbles no weak-eyed she in the line as it climbs the hill.
-  But I love Muléykeh's face: her forefront whitens indeed
+  But I love MulÃ©ykeh's face: her forefront whitens indeed
   Like a yellowish wave's cream-crest. Your camels--go gaze on them!
   Her fetlock is foam-splashed too. Myself am the richer still."
 
@@ -1448,11 +1414,11 @@ MULÉYKEH.
   Beg for his sake the Pearl! Be God the rewarder, since
   God pays debts seven for one: who squanders on Him shows thrift.'"
 
-  Said Hóseyn, "God gives each man one life, like a lamp, then gives
+  Said HÃ³seyn, "God gives each man one life, like a lamp, then gives
   That lamp due measure of oil: lamp lighted--hold high, wave wide
   Its comfort for others to share! once quench it, what help is left?
-  The oil of your lamp is your son: I shine while Muléykeh lives.
-  Would I beg your son to cheer my dark if Muléykeh died?
+  The oil of your lamp is your son: I shine while MulÃ©ykeh lives.
+  Would I beg your son to cheer my dark if MulÃ©ykeh died?
   It is life against life: what good avails to the life-bereft?"
 
   Another year, and--hist! What craft is it Duhl designs?
@@ -1460,7 +1426,7 @@ MULÉYKEH.
   But, creeping behind, he gropes his stealthy way by the trench
   Half-round till he finds the flap in the folding, for night combines
   With the robber--and such is he: Duhl, covetous up to crime,
-  Must wring from Hóseyn's grasp the Pearl, by whatever the wrench.
+  Must wring from HÃ³seyn's grasp the Pearl, by whatever the wrench.
 
   "He was hunger-bitten, I heard: I tempted with half my store,
   And a gibe was all my thanks. Is he generous like Spring dew?
@@ -1477,11 +1443,11 @@ MULÉYKEH.
   I have found me a peeping-place: breast, bury your breathing while
   I explore for myself! Now, breathe! He deceived me not, the spy!
 
-  "As he said--there lies in peace Hóseyn--how happy! Beside
+  "As he said--there lies in peace HÃ³seyn--how happy! Beside
   Stands tethered the Pearl: thrice winds her headstall about his wrist:
   'Tis therefore he sleeps so sound--the moon through the roof reveals.
   And, loose on his left, stands too that other, known far and wide,
-  Buhéyseh, her sister born: fleet is she yet ever missed
+  BuhÃ©yseh, her sister born: fleet is she yet ever missed
   The winning tail's fire-flash a-stream past the thunderous heels.
 
   "No less she stands saddled and bridled, this second, in case some
@@ -1498,43 +1464,43 @@ MULÉYKEH.
   Up starts our plundered man: from his breast though the heart be
       ripped,
   Yet his mind has the mastery: behold, in a minute more,
-  He is out and off and away on Buhéyseh, whose worth we know!
+  He is out and off and away on BuhÃ©yseh, whose worth we know!
 
-  And Hóseyn--his blood turns flame, he has learned long since to ride,
-  And Buhéyseh does her part,--they gain--they are gaining fast
-  On the fugitive pair, and Duhl has Ed-Dárraj to cross and quit,
-  And to reach the ridge El-Sabán,--no safety till that he spied!
-  And Buhéyseh is, bound by bound, but a horse-length off at last,
+  And HÃ³seyn--his blood turns flame, he has learned long since to ride,
+  And BuhÃ©yseh does her part,--they gain--they are gaining fast
+  On the fugitive pair, and Duhl has Ed-DÃ¡rraj to cross and quit,
+  And to reach the ridge El-SabÃ¡n,--no safety till that he spied!
+  And BuhÃ©yseh is, bound by bound, but a horse-length off at last,
   For the Pearl has missed the tap of the heel, the touch of the bit.
 
   She shortens her stride, she chafes at her rider the strange and
       queer:
-  Buhéyseh is mad with hope--beat sister she shall and must,
+  BuhÃ©yseh is mad with hope--beat sister she shall and must,
   Though Duhl, of the hand and heel so clumsy, she has to thank.
   She is near now, nose by tail--they are neck by croup--joy! fear!
-  What folly makes Hóseyn shout "Dog Duhl, Damned son of the Dust,
+  What folly makes HÃ³seyn shout "Dog Duhl, Damned son of the Dust,
   Touch the right ear and press with your foot my Pearl's left flank!"
 
-  And Duhl was wise at the word, and Muléykeh as prompt perceived
+  And Duhl was wise at the word, and MulÃ©ykeh as prompt perceived
   Who was urging redoubled pace, and to hear him was to obey,
   And a leap indeed gave she, and evanished for evermore.
-  And Hóseyn looked one long last look as who, all bereaved,
+  And HÃ³seyn looked one long last look as who, all bereaved,
   Looks, fain to follow the dead so far as the living may:
-  Then he turned Buhéyseh's neck slow homeward, weeping sore.
+  Then he turned BuhÃ©yseh's neck slow homeward, weeping sore.
 
-  And, lo, in the sunrise, still sat Hóseyn upon the ground
-  Weeping: and neighbours came, the tribesmen of Bénu-Asád
+  And, lo, in the sunrise, still sat HÃ³seyn upon the ground
+  Weeping: and neighbours came, the tribesmen of BÃ©nu-AsÃ¡d
   In the vale of green Er-Rass, and they questioned him of his grief;
   And he told from first to last how, serpent-like, Duhl had wound
   His way to the nest, and how Duhl rode like an ape, so bad!
-  And how Buhéyseh did wonders, yet Pearl remained with the thief.
+  And how BuhÃ©yseh did wonders, yet Pearl remained with the thief.
 
-  And they jeered him, one and all: "Poor Hóseyn is crazed past hope!
+  And they jeered him, one and all: "Poor HÃ³seyn is crazed past hope!
   How else had he wrought himself his ruin, in fortune's spite?
   To have simply held the tongue were a task for boy or girl,
-  And here were Muléykeh again, the eyed like an antelope,
+  And here were MulÃ©ykeh again, the eyed like an antelope,
   The child of his heart by day, the wife of his breast by night!"--
-  "And the beaten in speed!" wept Hóseyn. "You never have loved
+  "And the beaten in speed!" wept HÃ³seyn. "You never have loved
       my Pearl."
 
 
@@ -1844,7 +1810,7 @@ GOLD HAIR.
   And the church deserves the praise.
 
   They grubbed with a will: and at length--_O cor
-    Humanum, pectora cæca_, and the rest!--
+    Humanum, pectora cÃ¦ca_, and the rest!--
   They found--no gaud they were prying for,
     No ring, no rose, but--who would have guessed?--
   A double Louis-d'or!
@@ -2363,364 +2329,4 @@ THE GLOVE.
 End of the Project Gutenberg EBook of The Pied Piper of Hamelin and Other
 Poems, by Robert Browning
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE PIED PIPER OF HAMELIN ***
-
-***** This file should be named 42850-8.txt or 42850-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/4/2/8/5/42850/
-
-Produced by Juliet Sutherland, Paul Clark and the Online
-Distributed Proofreading Team at http://www.pgdp.net
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+*** END OF THE PROJECT GUTENBERG EBOOK 42850 ***
